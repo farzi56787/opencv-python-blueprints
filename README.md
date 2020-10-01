@@ -86,7 +86,7 @@ experience of building simple applications, and you are expected to be familiar 
 OpenCV's concepts and Python libraries. Basic knowledge of Python programming
 is expected and assumed.
 
-By the end of this book, you will be an OpenCV expert, and your newly gained
+By the end of this book, you will be an OpenCV3 expert, and your newly gained
 experience will allow you to develop your own advanced computer vision
 applications.
 
@@ -135,3 +135,4 @@ license according to Wikipedia. GPL allows for commercial use, distribution, mod
 
 The GPL is a copyleft license, which means that derived works can only be distributed under the same license terms.
 For more information, please see the license file.
+Readme Updated.
